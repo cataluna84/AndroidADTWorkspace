@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>Solar Filament Eruption Creates &#039;Canyon of Fire&#039;</title>
+ <link>http://www.nasa.gov/content/solar-filament-eruption-canyon-of-fire</link>
+ <description>A magnetic filament of solar material erupted on the sun in late September, breaking the quiet conditions in a spectacular fashion. The 200,000 mile long filament ripped through the sun&#039;s atmosphere, the corona, leaving behind what looks like a canyon of fire. The glowing canyon traces the channel where magnetic fields held the filament aloft before the explosion. In reality, the sun is not made of fire, but of something called plasma: particles so hot that their electrons have boiled off, creating a charged gas that is interwoven with magnetic fields.
+These images were captured on Sept. 29-30, 2013, by NASA&#039;s Solar Dynamics Observatory, or SDO, which constantly observes the sun in a variety of wavelengths.
+&gt; Northern and Southern Aurora Seen from Sept. 30, 2013 CME
+	&gt; NASA Releases Movie of Sun&#039;s Canyon of Fire
+Different wavelengths help capture different aspect of events in the corona. The red images shown in the movie help highlight plasma at temperatures of 90,000° F and are good for observing filaments as they form and erupt. The yellow images, showing temperatures at 1,000,000° F, are useful for observing material coursing along the sun&#039;s magnetic field lines, seen in the movie as an arcade of loops across the area of the eruption. The browner images at the beginning of the movie show material at temperatures of 1,800,000° F, and it is here where the canyon of fire imagery is most obvious. By comparing this with the other colors, one sees that the two swirling ribbons moving farther away from each other are, in fact, the footprints of the giant magnetic field loops, which are growing and expanding as the filament pulls them upward.
+Image Credit: NASA/Solar Dynamics Observatory</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/10461394966_08065d9cd4_o.jpg?itok=CslpxwfL" length="235417" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/solar-filament-eruption-canyon-of-fire</guid>
+ <pubDate>Fri, 25 Oct 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Pathfinding Operations for Orion Spacecraft at Kennedy Space Center</title>
+ <link>http://www.nasa.gov/content/pathfinding-operations-for-orion-spacecraft-at-kennedy-space-center</link>
+ <description>At NASA’s Kennedy Space Center in Florida, the Orion ground test vehicle has been lifted high in the air by crane in the transfer aisle of the Vehicle Assembly Building. The ground test vehicle is being used for pathfinding operations, including simulated manufacturing, assembly and stacking procedures.
+Orion is the exploration spacecraft designed to carry astronauts to destinations not yet explored by humans, including an asteroid and Mars. It will have emergency abort capability, sustain the crew during space travel and provide safe re-entry from deep space return velocities. The first unpiloted test flight of Orion, Exploration Flight Test (EFT)-1 is scheduled to launch in 2014. EFT-1 will be Orion&#039;s first mission, which will send an uncrewed spacecraft 3,600 miles into Earth&#039;s orbit. As part of the test flight, Orion will return to Earth at a speed of approximately 20,000 mph for a splashdown in the Pacific Ocean.
+For more information, visit www.nasa.gov/orion.
+Image Credit: NASA/Dimitri Gerondidakis</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/2013-3722.jpg?itok=IIEGW9jp" length="4875075" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/pathfinding-operations-for-orion-spacecraft-at-kennedy-space-center</guid>
+ <pubDate>Thu, 24 Oct 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronaut Karen Nyberg With Cosmonaut Fyodor Yurchikhin and Astronaut Luca Parmitano</title>
+ <link>http://www.nasa.gov/content/astronaut-karen-nyberg-with-cosmonaut-fyodor-yurchikhin-and-astronaut-luca-parmitano</link>
+ <description>ISS037-E-011136 (14 Oct. 2013) --- NASA astronaut Karen Nyberg, Expedition 37 flight engineer; Russian cosmonaut Fyodor Yurchikhin (center), commander; and European Space Agency astronaut Luca Parmitano, flight engineer, pose for a photo in the Kibo laboratory of the International Space Station.
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/iss037e011136.jpg?itok=eR5ht3z1" length="1823405" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/astronaut-karen-nyberg-with-cosmonaut-fyodor-yurchikhin-and-astronaut-luca-parmitano</guid>
+ <pubDate>Tue, 22 Oct 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Cygnus Releases from International Space Station</title>
+ <link>http://www.nasa.gov/content/cygnus-releases-from-international-space-station</link>
+ <description>Expedition 37 crew members aboard the International Space Station released Orbital Sciences&#039; Cygnus spacecraft from the station&#039;s robotic arm at 7:31 a.m. EDT on Oct. 22. Orbital Sciences engineers now will conduct a series of planned burns and maneuvers to move Cygnus toward a destructive re-entry in Earth&#039;s atmosphere Wednesday, Oct. 23.
+Cygnus had been attached to the space station&#039;s Harmony module for 23 days. The spacecraft delivered about 1,300 pounds (589 kilograms) of cargo, including food, clothing and student experiments, on a demonstration cargo resupply mission to the station.
+Cygnus was launched on Orbital&#039;s Antares rocket on Sept. 18 from the Mid-Atlantic Regional Spaceport Pad-0A at NASA’s Wallops Flight Facility in Virginia.
+Image Credit: NASA/Karen Nyberg</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/bxmcoyzcyaa5zqm.jpg_large.jpg?itok=LKldz17Y" length="50917" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/cygnus-releases-from-international-space-station</guid>
+ <pubDate>Tue, 22 Oct 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Earth from Juno</title>
+ <link>http://www.nasa.gov/content/earth-from-juno</link>
+ <description>On Oct. 9, Juno flew by Earth using the home planet&#039;s gravity to get a boost needed to reach Jupiter. The JunoCam caught this image of Earth, and other instruments were tested to ensure they work as designed during a close planetary encounter. 
+The Juno spacecraft was launched from NASA&#039;s Kennedy Space Center in Florida on Aug. 5, 2011. Juno’s rocket, the Atlas 551, was only capable of giving Juno enough energy or speed to reach the asteroid belt, at which point the Sun’s gravity pulled Juno back toward the inner solar system. The Earth flyby gravity assist increases the spacecraft’s speed to put it on course for arrival at Jupiter on July 4, 2016. 
+Image credit: NASA/JPL-Caltech/Malin Space Science Systems</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/efb10-r.jpg?itok=8DTP3xxF" length="633486" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/earth-from-juno</guid>
+ <pubDate>Mon, 21 Oct 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>High Above Saturn</title>
+ <link>http://www.nasa.gov/mission_pages/cassini/multimedia/saturn20131017.html</link>
+ <description>This portrait looking down on Saturn and its rings was created from images obtained by NASA&#039;s Cassini spacecraft on Oct. 10, 2013. It was made by amateur image processor and Cassini fan Gordan Ugarkovic. This image has not been geometrically corrected for shifts in the spacecraft perspective and still has some camera artifacts.The mosaic was created from 12 image footprints with red, blue and green filters from Cassini&#039;s imaging science subsystem. Ugarkovic used full color sets for 11 of the footprints and red and blue images for one footprint.
+The Cassini-Huygens mission is a cooperative project of NASA, the European Space Agency and the Italian Space Agency. The Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, manages the mission for NASA&#039;s Science Mission Directorate, Washington, D.C. The Cassini orbiter and its two onboard cameras were designed, developed and assembled at JPL. The imaging operations center is based at the Space Science Institute in Boulder, Colo.
+For more information about the Cassini-Huygens mission visit http://www.nasa.gov/cassini and http://saturn.jpl.nasa.gov.
+Image credit: NASA/JPL-Caltech/Space Science Institute/G. Ugarkovic</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/saturn20131017.jpg?itok=xHu5cL3N" length="3643613" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/cassini/multimedia/saturn20131017.html</guid>
+ <pubDate>Thu, 17 Oct 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Northern Lights Viewed From the International Space Station</title>
+ <link>http://www.nasa.gov/content/northern-lights-viewed-from-the-international-space-station</link>
+ <description>Astronaut Mike Hopkins, aboard the International Space Station, shared this picture of the northern lights on Oct. 9, 2013, saying &quot;The pic doesn&#039;t do the northern lights justice. Covered the whole sky. Truly amazing!&quot; The northern lights are caused by collisions between fast-moving particles (electrons) from space and the oxygen and nitrogen gas in our atmosphere. These electrons originate in the magnetosphere, the region of space controlled by Earth’s magnetic field. As they rain into the atmosphere, the electrons impart energy to oxygen and nitrogen molecules, making them excited. When the molecules return to their normal state, they release photons, small bursts of energy in the form of light.
+Astronauts have used hand-held cameras to photograph the Earth for more than 40 years. Beginning with the Mercury missions in the early 1960s, astronauts have taken more than 700,000 photographs of the Earth. Today, the space station continues the NASA tradition of Earth observation from human-tended spacecraft.
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/northern_lights_iss_20131009.jpg?itok=PorL1E18" length="73034" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/northern-lights-viewed-from-the-international-space-station</guid>
+ <pubDate>Thu, 17 Oct 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Full View of Asteroid Vesta</title>
+ <link>http://www.nasa.gov/mission_pages/dawn/multimedia/pia15678.html</link>
+ <description>As NASA&#039;s Dawn spacecraft travels to its next destination, this mosaic synthesizes some of the best views the spacecraft had of the giant asteroid Vesta. Dawn studied Vesta from July 2011 to September 2012. The towering mountain at the south pole - more than twice the height of Mount Everest - is visible at the bottom of the image. The set of three craters known as the &quot;snowman&quot; can be seen at the top left.
+	
+	These images are the last in Dawn&#039;s Image of the Day series during the cruise to Dawn&#039;s second destination, Ceres. A full set of Dawn data is being archived at http://pds.nasa.gov/ .
+	
+	The Dawn mission to Vesta and Ceres is managed by NASA&#039;s Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, for NASA&#039;s Science Mission Directorate, Washington D.C. UCLA is responsible for overall Dawn mission science. The Dawn framing cameras were developed and built under the leadership of the Max Planck Institute for Solar System Research, Katlenburg-Lindau, Germany, with significant contributions by DLR German Aerospace Center, Institute of Planetary Research, Berlin, and in coordination with the Institute of Computer and Communication Network Engineering, Braunschweig. The Framing Camera project is funded by the Max Planck Society, DLR, and NASA/JPL.
+	
+	&gt; Read more: Dawn Reality-Checks Telescope Studies of Asteroids
+	
+	Image credit: NASA/JPL-Caltech/UCAL/MPS/DLR/IDA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/images/685735main_pia15678-43_full.jpg?itok=L3iLovEi" length="146112" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/dawn/multimedia/pia15678.html</guid>
+ <pubDate>Mon, 30 Sep 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Glow with the Flow</title>
+ <link>http://www.nasa.gov/aero/flow_patterns_image.html</link>
+ <description>Researchers at NASA&#039;s Langley Research Center in Hampton, Va., use all sorts of tools and techniques to learn more during the development of aircraft and spacecraft designs.
+In this photo, engineers led by researcher Greg Gatlin have sprayed fluorescent oil on a 5.8 percent scale model of a futuristic hybrid wing body during tests in the14 by-22-Foot Subsonic Wind Tunnel.
+The oil helps researchers &quot;see&quot; the flow patterns when air passes over and around the model. Those patterns are important in determining crucial aircraft characteristics such as lift and drag.
+Image Credit: NASA Langley/Preston Martin</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/hwb_oil_visualization_larc_2013.jpg?itok=uqNVNz3e" length="4606498" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/aero/flow_patterns_image.html</guid>
+ <pubDate>Thu, 26 Sep 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Soyuz Spacecraft Approaches International Space Station</title>
+ <link>http://www.nasa.gov/content/soyuz-spacecraft-approaches-international-space-station</link>
+ <description>The Soyuz TMA-10M spacecraft approaches the International Space Station, carrying Expedition 37 Soyuz Commander Oleg Kotov, NASA Flight Engineer Michael Hopkins and Russian Flight Engineer Sergey Ryazanskiy. The Soyuz docked to the Poisk Mini-Research Module 2 (MRM2) of the space station at 10:45 p.m. EDT on Sept. 25, 2013.
+Image Credit: NASA</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/iss037e002640.jpg?itok=0WPTxI1H" length="554943" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/soyuz-spacecraft-approaches-international-space-station</guid>
+ <pubDate>Thu, 26 Sep 2013 12:00:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>

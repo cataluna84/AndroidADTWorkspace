@@ -1,0 +1,13 @@
+package com.newthinktank.stockquote;
+
+public class StockInfo {
+	// XML Data to Retrieve
+	private String name = "";
+	private String yearLow = "";
+	private String yearHigh = "";
+	private String daysLow = "";
+	private String daysHigh = "";
+	private String lastTradePriceOnly = "";
+	private String change = "";
+	private String daysRange = "";
+}
